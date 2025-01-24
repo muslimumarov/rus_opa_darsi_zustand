@@ -1,10 +1,10 @@
 
-const App = () => {
-  return (
-    <div>
-       salom
-    </div>
-  )
-}
+// const App = () => {
+//   return (
+//     <div>
+//        salom
+//     </div>
+//   )
+// }
 
-export default App
+// export default App
